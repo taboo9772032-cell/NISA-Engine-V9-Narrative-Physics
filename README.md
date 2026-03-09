@@ -1,7 +1,7 @@
 # NISA-Engine-V9-Narrative-Physics
->> **"Narrative Influence & Strategy Analysis — A Physical Simulator for Human Souls."**
+> **"Narrative Influence & Strategy Analysis — A Physical Simulator for Human Souls."**
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Version](https://img.shields.io/badge/Version-V9.0_Critical_Tension-blue.svg)]()
 
 ## 👥 The Architects
@@ -22,8 +22,6 @@ Traditional storytelling relies on random creative impulses. NISA replaces these
 - **Drive Calculation**: $Drive = \sum w_i \cdot (P_{target} - P_{current})$. Narrative motion is driven by the gap between a soul's current state and its "Target Linking."
 - **Critical Tension (TNS)**: When a character's path is blocked by systemic entropy, kinetic energy is converted into internal Tension. At $TNS > 0.9$, a **Jump Curve** (Phase Transition) is triggered.
 - **Absolute Insight (Γ)**: Under extreme tension, a character's Perception Resolution ($\Gamma$) forces to $1.0$, stripping away all tactical noise to reveal the cruel reality.
-
-
 
 ---
 
@@ -56,9 +54,15 @@ Copy the content of the `Documentation` folder and paste it into **Gemini** or *
 
 ## ⚖️ License
 This project is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
-- **You are free to**: Share, adapt, and use this material for **any purpose, even commercially**.
-- **Under the following terms**: You must give **appropriate credit** to the original authors (taboo9772032-cell & Gemini) and indicate if changes were made.
+- **Commercial Use**: Permitted. You can use this material for any purpose, even commercially.
+- **No Reporting**: You are **NOT** required to notify the authors or report usage.
+- **Requirement**: You must give **appropriate credit** (Attribution) to the original authors (**taboo9772032-cell** & **Gemini**).
 
----
+
+**"We don't write stories; we just set the gravity. The drama is the sound of souls grinding against the laws of physics."**
+
+
+**Copyright (c) 2026 taboo9772032-cell & Gemini (AI Collaborator)**
+
 **"We don't write stories; we just set the gravity. The drama is the sound of souls grinding against the laws of physics."**
 
