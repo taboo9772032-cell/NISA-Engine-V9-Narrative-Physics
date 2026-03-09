@@ -64,5 +64,5 @@ This project is licensed under **Creative Commons Attribution 4.0 International 
 
 **Copyright (c) 2026 taboo9772032-cell & Gemini (AI Collaborator)**
 
-**"We don't write stories; we just set the gravity. The drama is the sound of souls grinding against the laws of physics."**
+
 
