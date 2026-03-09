@@ -1,0 +1,146 @@
+{
+  "version": "V9.0_Critical_Tension",
+  "world_constants": {
+    "friction_mu": 0.5,
+    "entropy_rate": 0.01,
+    "critical_tns_threshold": 0.9
+  },
+  "characters": {
+    "曹操": {
+      "name": "曹操",
+      "init_l1": {
+        "POW": 0.98,
+        "RES": 0.85,
+        "SAF": 0.90,
+        "MOR": 0.20,
+        "CHR": 0.85,
+        "INF": 0.95,
+        "TNS": 0.40,
+        "INT": 0.95,
+        "PRD": 0.95,
+        "LDR": 0.95,
+        "BND": 0.5,
+        "LOA": 0.2
+      },
+      "l2_constants": {
+        "alpha": 0.95,
+        "beta": 0.3,
+        "gamma": 0.8,
+        "delta": 0.9,
+        "epsilon": 0.7
+      },
+      "jump_curves":[
+        {
+          "scenario": "封魏公加九錫",
+          "trigger": {
+            "parameter": "POW",
+            "val": 0.95,
+            "op": ">"
+          },
+          "effect": {
+            "MOR": -0.5,
+            "INF": 0.99,
+            "PRD": 1.0
+          }
+        }
+      ],
+      "sacrifice_order":["BND", "MOR", "SAF", "CHR", "LOA"],
+      "logic_signature": "絕對權力實體，引力極大，周圍形成道德事件視界",
+      "template_ref": "霸主 (The Sovereign)",
+      "motivation_engine": {
+        "target_linking": {
+          "target_type": "Self",
+          "target_id": "曹操",
+          "target_params": { "POW": 1.0, "INF": 1.0 },
+          "logic": "位能差補完模式"
+        }
+      }
+    },
+    "荀彧": {
+      "name": "荀彧",
+      "init_l1": {
+        "POW": 0.3,
+        "RES": 0.7,
+        "SAF": 0.8,
+        "MOR": 0.95,
+        "CHR": 0.8,
+        "INF": 0.9,
+        "TNS": 0.4,
+        "INT": 0.95,
+        "PRD": 0.8,
+        "LDR": 0.7,
+        "BND": 0.6,
+        "LOA": 0.98
+      },
+      "l2_constants": {
+        "alpha": 0.3,
+        "beta": 0.8,
+        "gamma": 0.9,
+        "delta": 0.9,
+        "epsilon": 0.7
+      },
+      "jump_curves":[
+        {
+          "scenario": "收到空食盒 (曹操加九錫後漢室塌陷)",
+          "trigger": {
+            "parameter": "TNS",
+            "val": 0.9,
+            "op": ">"
+          },
+          "effect": {
+            "SAF": -1.0,
+            "LOA": 1.0,
+            "PRD": 1.0,
+            "MOR": 1.0
+          }
+        }
+      ],
+      "sacrifice_order": ["SAF", "POW", "RES", "INF", "PRD", "LOA"],
+      "logic_signature": "高道德剛性實體，當外部動力被封鎖時，內部張力極速塌縮至死亡",
+      "template_ref": "義士 (The Loyalist)",
+      "motivation_engine": {
+        "target_linking": {
+          "target_type": "Organization",
+          "target_id": "大漢皇室",
+          "target_params": { "MOR": 1.0, "LOA": 1.0 },
+          "logic": "位能差補完模式"
+        }
+      }
+    }
+  },
+  "organizations": {
+    "大漢皇室": {
+      "group_name": "大漢皇室",
+      "period": "建安十七年",
+      "init_l1": {
+        "POW": 0.05,
+        "RES": 0.2,
+        "SAF": 0.1,
+        "MOR": 0.5,
+        "CHR": 0.2,
+        "INF": 0.3,
+        "TNS": 0.95,
+        "INT": 0.1,
+        "PRD": 0.1,
+        "LDR": 0.0,
+        "BND": 0.2,
+        "LOA": 0.3
+      },
+      "group_constants": {
+        "GGR": 0.1,
+        "VIS": 0.9,
+        "ENT": 0.99,
+        "EPS": 0.1,
+        "INH": 0.0
+      },
+      "jump_curves":[
+        {
+          "scenario": "曹操封魏公",
+          "trigger": { "parameter": "Emperor_Authority", "val": "Suppressed" },
+          "effect": { "MOR": -0.4, "POW": -0.5, "GGR": -0.5 }
+        }
+      ],
+      "logic_signature": "權威已被掏空的黑洞結構，高熵值 (ENT) 導致所有企圖修復它的動力都會被無效化"
+    }
+  }
+}
