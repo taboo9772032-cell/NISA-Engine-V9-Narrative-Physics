@@ -1,7 +1,7 @@
 # NISA-Engine-V9-Narrative-Physics
-> **"Narrative Influence & Strategy Analysis — A Physical Simulator for Human Souls."**
+>> **"Narrative Influence & Strategy Analysis — A Physical Simulator for Human Souls."**
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Version](https://img.shields.io/badge/Version-V9.0_Critical_Tension-blue.svg)]()
 
 ## 👥 The Architects
@@ -34,11 +34,13 @@ The V9.0 engine successfully simulated the famous "Empty Food Box" incident from
 ---
 
 ## 🧠 How to Understand the Engine (AI-Assisted)
-The NISA Engine is a complex system of "Soul ROMs" and "Physical Constants." To quickly master the logic, we recommend the following:
+The NISA Engine is a complex system of "Soul ROMs" and "Physical Constants." To quickly master the logic, we recommend using AI tools as your "Chief Engineer":
 
 ### 1. Using NotebookLM (Highly Recommended)
 Upload the 18 `.md` files in the `/Physics_Laws` directory to [Google NotebookLM](https://notebooklm.google.com/). 
-- **Benefit**: NotebookLM will act as a "Chief Engineer," allowing you to ask questions like: *"How does the Sacrifice Order affect a 'Sovereign' prototype?"* ### 2. LLM Guided Exploration
+- **Benefit**: NotebookLM will help you "digest" the entire physics system, allowing you to ask: *"How does the Sacrifice Order affect a 'Sovereign' prototype?"* or *"What happens when MOR weight is higher than SAF?"*
+
+### 2. LLM Guided Exploration
 Copy the content of the `Documentation` folder and paste it into **Gemini** or **Claude**.
 - **Prompt Example**: *"Based on the NISA Physics Laws provided, analyze why a character with high INT but low SAF would choose suicide over betrayal during a systemic collapse."*
 
@@ -53,8 +55,10 @@ Copy the content of the `Documentation` folder and paste it into **Gemini** or *
 ---
 
 ## ⚖️ License
-This project is licensed under **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**. 
-*Free for research and personal exploration. Commercial use is strictly prohibited.*
+This project is licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.
+- **You are free to**: Share, adapt, and use this material for **any purpose, even commercially**.
+- **Under the following terms**: You must give **appropriate credit** to the original authors (taboo9772032-cell & Gemini) and indicate if changes were made.
 
 ---
 **"We don't write stories; we just set the gravity. The drama is the sound of souls grinding against the laws of physics."**
+
