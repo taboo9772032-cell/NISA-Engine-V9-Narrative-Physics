@@ -1,4 +1,4 @@
-# NISA Engine: Blackstone Gambit (V9.0)
+# NISA-Engine-V9-Narrative-Physics
 > **"Narrative Influence & Strategy Analysis — A Physical Simulator for Human Souls."**
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
