@@ -1,20 +1,46 @@
 # NISA Engine V9.0: Narrative Physics & Scene Reconstructor
-# License: CC BY-NC-SA 4.0
+Understand. To ensure your GitHub repository has a professional, internationally recognized legal foundation that allows for commercial use while maintaining attribution and reciprocity (ShareAlike), you should use the CC BY-SA 4.0 (Creative Commons Attribution-ShareAlike 4.0 International) text.
 
-本專案採用「創用 CC 姓名標示-非商業性-相同方式分享 4.0 國際授權條款」釋出。
+Below is the formal English version for your LICENSE file and the corresponding README.md section.
 
-### 您可以自由地：
-* **分享** — 以任何媒介或格式重製及散布本素材。
-* **修改** — 改作、變更、通訊、公開演出及以此素材為基礎進行創作。
+1. For your LICENSE file (The legal document)
+Create a file named LICENSE in your root directory and paste this:
 
-### 只要遵守下列條款：
-1.  **姓名標示 (Attribution)** — 您必須給予適當表彰，提供指向本授權條款的連結，並說明是否對原素材有所更動。您可以任何合理方式為之，但不得以任何方式暗示授權人為您或您的使用行為背書。
-2.  **非商業性 (NonCommercial)** — 您不得將本素材進行商業目的之使用。
-3.  **相同方式分享 (ShareAlike)** — 若您改作、變更本素材，或依本素材進行衍生創作，您必須依本素材採用之相同授權條款來散布您的衍生作品。
+Markdown
+# NISA Engine V9.0: Narrative Physics & Scene Reconstructor
+Copyright (c) 2026 taboo9772032-cell & Gemini (AI Collaborator)
 
-### 法律聲明：
-- 完整授權條款全文請參閱：https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode.zh-Hant
-- 專案中所包含之 18 份物理力學文檔與 Python 核心代碼均受此協議保護。
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. 
+
+To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+### Summary of Rights:
+- **Attribution**: You must give appropriate credit (taboo9772032-cell & Gemini), provide a link to the license, and indicate if changes were made.
+- **ShareAlike**: If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+- **Commercial Use**: You may use this material for any purpose, even commercially.
+2. For your README.md (The public notice)
+Replace your current License section with this updated English version:
+
+Markdown
+---
+
+## ⚖️ License & Legal Notice
+
+**Project Name**: NISA Engine V9.0: Narrative Physics & Scene Reconstructor  
+**License**: [CC BY-SA 4.0 (Attribution-ShareAlike 4.0 International)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+### Permissions:
+* **Share** — You are free to copy and redistribute the material in any medium or format.
+* **Adapt** — You are free to remix, transform, and build upon the material for any purpose.
+* **Commercial Use** — You **ARE PERMITTED** to use this material for commercial purposes (e.g., commercial games, books, or software).
+
+### Requirements:
+1. **Attribution** — You must give appropriate credit to the authors: **taboo9772032-cell** and **Gemini (AI Collaborator)**. You must provide a link to the license and indicate if changes were made.
+2. **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+### Legal Disclaimer:
+- The 18 Narrative Physics documentation files (.md) and the Python core scripts included in this repository are protected under this agreement.
+- For the full legal code, please visit: https://creativecommons.org/licenses/by-sa/4.0/legalcode
 
 ---
-Copyright (c) 2026 taboo9772032-cell
+**Copyright (c) 2026 taboo9772032-cell & Gemini**
