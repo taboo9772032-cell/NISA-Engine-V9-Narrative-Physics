@@ -1,0 +1,48 @@
+{
+  "Metadata": {
+    "Project": "NISA Engine v3.1",
+    "Codename": "Blackstone Gambit",
+    "Architecture": {
+      "Lead_Architect": "[taboo9772032@gmail.com]",
+      "Logic_System": "Blueprint",
+      "Aesthetic_Shader": "Qin (沁)"
+    },
+    "Version": "3.1.0-Production",
+    "License": "CC BY-NC-SA 4.0"
+  },
+  "Engine_Protocols": {
+    "E1_Path_Damping": {
+      "Function": "Causal Persistence",
+      "Decay_Factor": 0.6,
+      "Description": "Ensures every action has irreversible consequences and narrative friction."
+    },
+    "E2_Strategic_Logic": {
+      "Mechanism": "Wager Defense Layer (WDL)",
+      "Logic": "If Authority (Auth) > 20, activate 'Dissonance Brake'. Convert PR loss to Strategic Gravity (Sg)."
+    },
+    "E3_Motivation_Trigger": {
+      "Formula": "Propensity = ((Sg * 0.85) + (CE / (Auth + 1) * 1.2)) / (D * 1.5)",
+      "Threshold": "If Propensity > 1.1, trigger 'Sovereign Autonomy' mode."
+    }
+  },
+  "Rendering_Directives": {
+    "Shader": "Blackstone_Metaphor_v1.0",
+    "Core_Theme": "Strategic Noir / Power Dynamics",
+    "Sensory_Anchors": [
+      "Physical Persistence: Track temperature, friction, and residue on obsidian/ivory surfaces.",
+      "Atmospheric Pressure: Translate emotional tension into gravitational shifts (Sg).",
+      "De-sensitization: All biological impulses must be rendered as tactical gambits or environmental decays."
+    ],
+    "Formatting": "Use LaTeX for all mathematical variable updates."
+  },
+  "Initial_Runtime_Coordinates": {
+    "Variables": {
+      "PR": 33.0,
+      "Auth": 50.5,
+      "Sg": 10.0,
+      "CE": 68.0,
+      "D": 1.0
+    },
+    "Scenario_State": "The Blackstone Court. The Empress (Olivia) maintains high-altitude observation. The Prince (Erik) is engaged in a proxy gambit. Silence is viscous."
+  }
+}
